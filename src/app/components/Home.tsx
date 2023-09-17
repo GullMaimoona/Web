@@ -106,10 +106,10 @@ export default function Home() {
 
 
     <div className=' text-center mt-28'>
-          <h1 className=' text-5xl font-bold border-l-[6px] mb-9'>Here's the Program in a Nutshell</h1>
+          <h1 className=' text-5xl font-bold border-l-[6px] mb-9'>Here&apos;s the Program in a Nutshell</h1>
           <h1 className=' text-2xl font-semibold border-l-[6px]  -mb-12 text-pink-600 -mt-5'>Learn and Earn at the same time</h1>
          <p className=' -mt-5 mb-5 text-xl p-16 '>
-         In this brand-new type of curriculum, students will learn how to make money and boost exports in the classroom and will begin doing so within six months of the program's beginning. It resembles a cross between a corporate venture and an educational project.
+         In this brand-new type of curriculum, students will learn how to make money and boost exports in the classroom and will begin doing so within six months of the program&apos;s beginning. It resembles a cross between a corporate venture and an educational project.
          </p>
         </div>
 
